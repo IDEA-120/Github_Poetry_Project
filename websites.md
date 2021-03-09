@@ -4,3 +4,5 @@ Follow the directions outlined here: https://guides.github.com/activities/forkin
 
 
 Tiffany Funk: http://tiffanyfunk.com/Project-1-Github-Poetry/
+
+Donté King: https://dking30.github.io/HelpingHand/
