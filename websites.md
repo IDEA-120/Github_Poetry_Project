@@ -10,3 +10,5 @@ Donté King: https://dking30.github.io/HelpingHand/
 Pauline Hong: https://phong7.github.io/Project-1-GitHubPoetry/
 
 Anna Lin: https://annac0nda.github.io/down/
+
+Jamaica Spencer: https://laycolor101.github.io/Project-1-GitHub-Poetry/
