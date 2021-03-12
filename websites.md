@@ -12,3 +12,6 @@ Pauline Hong: https://phong7.github.io/Project-1-GitHubPoetry/
 Anna Lin: https://annac0nda.github.io/down/
 
 Jamaica Spencer: https://laycolor101.github.io/Project-1-GitHub-Poetry/
+
+Brian Sylvester: https://thenotrealbrian.github.io/
+
